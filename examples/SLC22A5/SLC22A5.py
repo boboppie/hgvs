@@ -50,11 +50,10 @@ def get_transcript(name):
 # REF https://genome.ucsc.edu/FAQ/FAQtracks.html#tracks1
 
 with open('examples/SLC22A5/in.txt','r') as f:
-    with open('examples/SLC22A5/out.txt','w') as g: 
-        for x in f:
-            chrom, offset, ref, alt = hgvs.parse_hgvs_name(
-                x, genome, get_transcript=get_transcript)
-            print chrom, offset, ref, alt
+    for x in f:
+        chrom, offset, ref, alt = hgvs.parse_hgvs_name(
+            x, genome, get_transcript=get_transcript)
+        print chrom, offset, ref, alt
 '''
 chrom, offset, ref, alt = hgvs.parse_hgvs_name(
     'NM_003060.3:c.1A>G', genome, get_transcript=get_transcript)
