@@ -1,0 +1,3 @@
+grep -v ^# table.txt | cut -f3 | sed 's/^/NM\_003060\.2:/g' > in.txt
+cd ../..
+python examples/SLC22A5/SLC22A5.py > examples/SLC22A5/out.txt

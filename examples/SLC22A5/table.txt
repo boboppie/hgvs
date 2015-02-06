@@ -1,0 +1,186 @@
+5'UTR		c.-207G>C				Benign	Peltekova (2004)	
+5'UTR		c.-185A>C		33		Uncertain	Calderon et.al unpublished	
+5'UTR		c.-149G>A		33		Uncertain	Calderon et.al unpublished	
+5'UTR	Deletion	c.-91_22del				Pathogenic	Nezu (1999)	
+5'UTR		c.-78C>T		33		Benign	Koizumi (1999)	
+5'UTR		c.-77G>A		33		Benign	Koizumi (1999)	
+5'UTR		c.-38A>C				Benign	Calderon et.al unpublished	
+Exon 1	Missense	c.3G>T	p.M1I	<5		Likely Pathogenic	Dobrowolski (2005)	
+Exon 1	Insertion	c.4_5insC	p.R2PfsX136			Pathogenic	Nezu (1999)	
+Exon 1	Nonsense	c.12C>G	p.Y4X	<1		Pathogenic	Wang (2001)	
+Exon 1-8	Deletion	c.33_1427del	p.G12_L477del	2		Pathogenic	Lamhonwah (1998)	
+Exon 1	Missense	c.34G>A	p.G12S			VUS	Calderon et.al unpublished	
+Exon 1	Missense	c.34G>A	p.G12S			VUS	Calderon et.al unpublished	
+Exon 1	Missense	c.34G>A	p.G12S			VUS	Li (2010)	
+Exon 1	Missense	c.43G>T	p.G15W	3		Likely Pathogenic	Calderon et.al unpublished	
+Exon 1	Missense	c.43G>T	p.G15W			VUS	El-Hattab (2010)	
+Exon 1	Missense	c.51C>G	p.F17L	14	18	Pathogenic	Calderon et.al unpublished	
+Exon 1	Missense	c.56G>C	p.R19P	<5	4	Pathogenic	Wang (2001)	
+Exon 1	Missense	c.59T>A	p.L20H			VUS	Calderon et.al unpublished	
+Exon 1	Deletion	c.67_69delTTC	p.F23del	2		Pathogenic	Lamhonwah (2002)	
+Exon 1	Missense	c.83G>T	p.S28I	<12		Likely Pathogenic	Rahbeeni (2002)	
+Exon 1	Missense	c.95A>G	p.N32S	21	0.4	Pathogenic	Lamhonwah (2002)	
+Exon 1	Missense	c.131C>T	p.A44V			VUS	Calderon et.al unpublished	
+Exon 1	Missense	c.136C>T	p.P46S	<5	<5	Pathogenic	Schimmenti (2007)	
+Exon 1	Missense	c.136C>G	p.P46S	6		Pathogenic	Calderon et.al unpublished	
+Exon 1	Missense	c.136C>G	p.P46S			Pathogenic	Calderon et.al unpublished	
+Exon 1	Missense	c.136C>G	p.P46S			Pathogenic	Calderon et.al unpublished	
+Exon 1	Missense	c.136C>G	p.P46S			Pathogenic	Calderon et.al unpublished	
+Exon 1	Missense	c.137C>T	p.P46L	7		Likely Pathogenic	Calderon et.al unpublished	
+Exon 1	Deletion	c.148delT	p.C50AfsX9			Pathogenic	Carducci (unpublished)	
+Exon 1	Missense	c.196A>C	p.T66P			VUS	Li (2010)	
+Exon 1	Silent	c.207G>C	p.L69L			Benign	Gazouli (2005)	
+Exon 1	Missense	c.224G>C	p.R75P			VUS	Li (2010)	
+Exon 1	Deletion	c.232delC	p.H79TfsX51	<1		Pathogenic	Amat di San Filippo (2006)	
+Exon 2	Silent	c.246C>T	p.R82R			Benign	Calderon et.al unpublished	
+Exon 1	Missense	c.248G>T	p.R83L	0	<1	Pathogenic	Makhseed (2004)	
+Exon 1	Missense	c.248G>T	p.R83L			Pathogenic	Calderon et.al unpublished	
+Exon 1	Insertion	c.254_264dupGGCTCGCCACC	p.I89GfsX45	<5		Pathogenic	Wang (2001)	
+Exon 1	Insertion	c.254_264dupGGCTCGCCACC	p.I89GfsX45			Pathogenic	Calderon et.al unpublished	
+Exon 1	Insertion	c.254_264dupGGCTCGCCACC	p.I89GfsX45			Pathogenic	Li (2010)	
+Exon 1	Insertion	c.265_266insGGCTCGCCACC	p.I89GfsX45			Pathogenic	Calderon et.al unpublished	
+Exon 1	Missense	c.278C>G	p.S93W			Pathogenic	Calderon et.al unpublished	
+Exon 1	Missense	c.283C>G	p. L95V	<2		Pathogenic	Calderon et.al unpublished	
+Exon 1	Silent	c.285C>T	p.L95L			Benign	Tang (2002)	 
+Exon 1	Missense	c.287G>C	p.G96A			VUS	Calderon et.al unpublished	
+Exon 1	Missense	c.287G>C	p.G96A			VUS	Li (2010)	
+Exon 1	Silent	c.291C>T	p.L97L			Benign	Tang (1999)	
+Exon 1	Missense	c.344A>G	p.D115G	<2		Pathogenic	Calderon et.al unpublished	
+Exon 1	Nonsense	c.350G>A	p.W117X			Pathogenic	Li (2010)	
+Exon 1	Missense	c.364G>T	p.D122Y	53%		VUS	Calderon et.al unpublished	
+Exon 1	Missense	c.364G>T	p.D122Y			VUS	Calderon et.al unpublished	
+Exon 1	Missense	c.364G>T	p.D122Y			VUS	Li (2010)	
+Exon 2	Missense	c.368T>G	p.V123G			VUS	Li (2010)	
+Exon 2	Missense	c.368T>G	p.V123G			VUS	Li (2010)	
+Intron 1		c.393+17G>A		50		Benign	Calderon et.al unpublished	
+Exon 2	Nonsense	c.396G>A	p.W132X	<5		Pathogenic	Tang (1999)	
+Exon 2	Silent	c.414C>T	p.D138D	45		Benign	Calderon et.al unpublished	
+Exon 2	Missense	c.415G>A	p.D139N			VUS	Calderon et.al unpublished	
+Exon 2	Missense	c.424G>T	p.A142S	5	45	Pathogenic	Amat di San Filippo (2006)	
+Exon 2	Missense	c.424G>T	p.A142S				Calderon et.al unpublished	
+Exon 2	Missense	c.424G>T	p.A142S				Calderon et.al unpublished	
+Exon 2	Missense	c.424G>T	p.A142S				Calderon et.al unpublished	
+Exon 2	Missense	c.428C>T	p.P143L			VUS	Li (2010)	
+Exon 2	Missense	c.430C>T	p.L144F			Benign	Calderon et.al unpublished	
+Exon 2	Missense	c.430C>T	p.L144F			Benign	Calderon et.al unpublished	
+Exon 2	Missense	c.451G>A	p.V151M	6		Likely Pathogenic	Calderon et.al unpublished	
+Exon 2	Silent	c.453G>A	p.V151V	6		Benign	Calderon et.al unpublished	
+Exon 2	Missense	c.455G>A	p.G152D			VUS	Calderon et.al unpublished	
+Exon 2	Deletion	c.458_459delTG	p.V153AfsX41	<5		Pathogenic	Dobrowolski (2005)	
+Exon 3	Missense	c.505C>T	p.R169W	<5	<1	Pathogenic	Wang (2000)	
+Exon 3	Missense	c.506G>A	p.R169Q	<5		Likely Pathogenic	Burwinkel (1999)	
+Exon 3	Missense	c.529A>G	p.M177V			VUS	Li (2010)	
+Exon 3	Missense	c.535A>T	p.M179L		92	Benign	Koizumi (1999)	
+Exon 3	Missense	c.557T>C	p.L186P			VUS	Calderon et.al unpublished	
+Exon 3	Missense	c.557T>C	p.L186P			VUS	Li (2010)	
+Exon 3	Frame-shift nonsense	c.573delG	p.N192IfsX12			pathogenic	Li (2010)	
+Exon 3	Missense	c.629A>G	p.N210S			Pathogenic	Calderon et.al unpublished	
+Exon 3	Missense	c.632A>G	p.Y211C	<10		Likely Pathogenic	Vaz (1999)	
+Exon 3	Missense	c.641C>T	p.A214V			Likely Benign	Calderon et.al unpublished	
+Exon 3	Insertion	c.652_653insTATGGCCATCAGGTTGGAG	p.G218VfsX68	2		Pathogenic	Lamhonwah & Tein (1998)	
+Intron 3	Splice Site	c.652+1G>A		2		Pathogenic	Lamhonwah (2002)	
+Intron 3		c.652+6A>G				Polymorphism	Calderon et.al unpublished	
+Intron 3		c.652+77A>G				Polymorphism	Calderon et.al unpublished	
+Intron 3	Splice Site	c.653-2A>C		8		Pathogenic	Calderon et.al unpublished	
+Exon 4	Deletion	c.653_824del	p.T219SfsX20	2		Pathogenic	Lamhonwah & Tein (1998)	
+Exon 4	Missense	c.674C>T	p.S225L			VUS	Calderon et.al unpublished	
+Exon 4	Missense	c.680G>A	p.R227H			Likely Pathogenic	Li (2010)	
+Exon 4	missense	c.680G>A	p.R227H			VUS	Li (2010)	
+Exon 4	missense	c.680G>A	p.R227H			VUS	Li (2010)	
+Exon 4	Missense	c.688T>C	p.F230L			VUS	Li (2010)	
+Exon 4	Missense	c.692C>T	p.S231F			VUS	Calderon et.al unpublished	
+Exon 4	Missense	c.695C>T	p.T232M	5	2	Pathogenic	Calderon et.al unpublished	
+Exon 4	Missense	c.695C>T	p.T232M				Calderon et.al unpublished	
+Exon 4	Missense	c.695C>T	p.T232M				Calderon et.al unpublished	
+Exon 4	Missense	c.695C>T	p.T232M				Calderon et.al unpublished	
+Exon 4	Missense	c.718G>A	p.A240T			VUS	Li (2010)	
+Exon 4	Missense	c.725G>T	p.G242V	<5	<1	Pathogenic	Wang (2000)	
+Exon 4	Nonsense	c.760C>T	p.R254X	<1		Pathogenic	Tang (2002)	
+Exon 4	Missense	c.761G>A	p.R254Q			VUS	Calderon et.al unpublished	
+Exon 4	Missense	c.761G>A	p.R254Q			VUS	Calderon et.al unpublished	
+Exon 4	Missense	c.761G>A	p.R254Q			VUS	Calderon et.al unpublished	
+Exon 4	Missense	c.761G>A	p.R254Q			VUS	Calderon et.al unpublished	
+Exon 4	Missense	c.761G>A	p.R254Q			VUS	Calderon et.al unpublished	
+Exon 4	Nonsense	c.768G>A	p.W256X	0		Pathogenic	Amat di San Filippo (2006)	
+Exon 4	Missense	c.769C>T	p.R257W	<50	0	Pathogenic	Li (2011)	
+Exon 4	Missense	c.769C>T	p.R257W			VUS	Li (2010)	
+Exon 4	Missense	c.791C>G	p.T264R			VUS	Li (2010)	
+Exon 4	Deletion	c.806delT	p.L269HfsX27	2		Pathogenic	Cederbaum (2002)	
+Exon 4	Silent	c.807G>A	p.L269L			Benign	Tang (2002)	 
+Intron 4		c.824+13C>T				Polymorphism	Tang (2002)	
+Exon 5	Nonsense	c.825G>A	p.W275X	5		Pathogenic	Dobrowolski (2005)	
+Exon 5	Missense	c.839C>T	p.S280F	<1	<1	Pathogenic	Amat di San Filippo (2006)	
+Exon 5	Missense	c.839C>T	p.S280F			Pathogenic		
+Exon 5	Deletion	c.839delC	p.R282NfsX14	1		Pathogenic	Lamhonwah (2002)	
+Exon 5	Nonsense	c.844C>T	p.R282X	<1		Pathogenic	Wang (1999)	
+Exon 5	Missense	c.845G>A	p.R282Q	<10	11	Pathogenic	Amat di San Filippo (2006)	
+Exon 5	Missense	c.847T>C	p.W283R		<1	Pathogenic	Mayatepek (2000)	
+Exon 5	Missense	c.847T>A	p.W283R	<10	<5	Pathogenic	Amat di San Filippo (2006)	
+Exon 5	Missense	c.849G>T	p.W283C		2	Pathogenic	Koizumi (1999)	
+Exon 5	Nonsense	c.865C>T	p.R289X	<5		Pathogenic		
+Exon 5	Nonsense	c.865C>T	p.R289X	<5		Pathogenic	Dobrowolski (2005)	
+Exon 5	Missense	c.902C>A	p.A301D	<5	4	Pathogenic	Wang (2000)	
+Exon 5	Missense	c.904A>G	p.K302E			VUS	Calderon et.al unpublished	
+Exon 5	Missense	c.934A>G	p.I312V			Benign	Li (2010)	
+Exon 5	Missense	c.934A>G	p.I312V			VUS	Li (2010)	
+Exon 6	Nonsense	c.955C>T	p.Q319X			pathogenic	Li (2010)	
+Exon 6	Deletion	c.1009delA	p.T337RfsX12	16-20		Pathogenic	Lamhonwah (2002)	
+Exon 6	Missense	c.1043T>C	p.I348T			Pathogenic	Calderon et.al unpublished	
+Exon 6	Missense	c.1051T>C	p.W351R	<5	<1	Pathogenic	Wang (2000)	
+Intron 6	Splice Site	c.1053-2A>C				Pathogenic	Calderon et.al unpublished	
+Exon 7	Missense	c.1064C>T	p.S355L			VUS	Li (2010)	
+Exon 7	Missense	c.1072T>A	p.Y358N			VUS	Li (2010)	
+Exon 7	Missense	c.1072T>A	p.Y358N			VUS	Calderon et.al unpublished	
+Exon 7	Duplication	c.1078_1083dupGGGCTT	p.G360_L361dup			Pathogenic	Calderon et.al unpublished	
+Exon 7	Missense	c.1088T>C	p.L363P			VUS	Akpinar (2010)	
+Exon 7	Nonsense	c.1161T>G	p.Y387X			Pathogenic	Tang (2002)	
+Exon 7	Deletion	c.1181_1183delTGC	p.L394del	7		Pathogenic	Calderon et.al unpublished	
+Exon 7	Missense	c.1193C>T	p.P398L	<1	<1	Pathogenic	Amat di San Filippo (2006)	
+Exon 7	Missense	c.1195C>T	p.R399W			VUS	El-Hattab (2010)	
+Exon 7	Missense	c.1195C>T	p.R399W	36	7	Pathogenic	Calderon et.al unpublished	
+Exon 7	Missense	c.1195C>T	p.R399W				Calderon et.al unpublished	
+Exon 7	Missense	c.1196G>A	p.R399Q	<1	<5	Pathogenic	Wang (2001)	
+Exon 7	Insertion	c.1202_1203insA	p.Y401X	<5		Pathogenic	Wang (1999)	
+##Exon 7	Insertion	c.1250het_dupT	p.M417IfsX106			Pathogenic	Calderon et.al unpublished	
+#Intron 7	Deletion	c.1267+3_+24del22				pathogenic	Li (2010)	
+Intron 7	Deletion	c.1267+3_1267+24del				pathogenic	Li (2010)	
+#Intron 7	Deletion	c.1267del+3_+23		5		Pathogenic	Dobrowolski (2005)	
+Intron 7	Deletion	c.1267+3_1267+23del		5		Pathogenic	Dobrowolski (2005)
+Intron 7		c.1268-34A>G				Benign	Calderon et.al unpublished	
+Exon 8	Deletion	c.1302delG	p.G434AfsX24	<5		Pathogenic	Wang (1999)	
+#Exon 8	Deletion	c.1304_1313del10	p.G435EfsX20			pathogenic	Li (2010)	
+Exon 8	Deletion	c.1304_1313del	p.G435EfsX20			pathogenic	Li (2010)	
+Exon 8	Missense	c.1319C>T	p.T440M	<1	<1	Pathogenic	Lamhonwah (2002)	
+Exon 8	Missense	c.1327T>G	p.F443V			VUS	Li (2010)	
+Exon 8	Missense	c.1336G>T	p.V446F		<1	Pathogenic	Mayatepek (2000)	
+Exon 8	Missense	c.1340A>G	p.Y447C	<15	0	Pathogenic	Rahbeeni (2002)	
+Exon 8	Missense	c.1342G>T	p.V448L	<1		VUS	Calderon et.al unpublished	
+Exon 8	Missense	c.1345T>G	p.Y449D	50	11	Pathogenic	Amat di San Filippo (2004)	
+Exon 8	Missense	c.1345T>G	p.Y449D	50	12	Pathogenic	Amat di San Filippo (2004)	
+Exon 8	Missense	c.1354G>A	p.E452K	<5	<5	Pathogenic	Wang (2000)	
+Exon 8	Missense	c.1364C>G	p.P455R			VUS	Calderon et.al unpublished	
+Exon 8	Missense	c.1364C>G	p.P455R			VUS	Li (2010)	
+Exon 8	Indel	c.1392_1409delinsCA	p.V465TfsX29	<1		Pathogenic	Calderon et.al unpublished	
+Exon 8	Missense	c.1400C>G	p.S467C	<8	11 (HEK293)	Pathogenic	Koizumi (1999)	
+Exon 8	Missense	c.1403C>G	p.T468R	<6	<1	Pathogenic	Lamhonwah (2002)	
+Exon 8	Missense	c.1409C>T	p.S470F	7.1		Likely Pathogenic	Lamhonwah (2002)	
+Exon 8	Missense	c.1412G>A	p.R471H	<10	<2	Pathogenic	Spiekerkoetter (2003)	
+Exon 8	Missense	c.1433C>T	p.P478L	5	<1	Pathogenic	Tang (1999)	
+Exon 9	Missense	c.1441G>T	p.V481F		>60	Slight reduction in transport activity	Urban (2006)	
+Intron 8	Splice Site	c.1451-1G>A		<10		Pathogenic	Nezu (1999)	
+Exon 9	Missense	c.1462C>T	p.R488C	<4		Pathogenic	Schimmenti (2007)	
+Exon 9	Missense	c.1463G>A	p.R488H	5	47	Pathogenic	Amat di San Filippo (2006)	
+Exon 9	Missense	c.1463G>A	p.R488H					
+Exon 9	Missense	c.1463G>A	p.R488H					
+Exon 9	Missense	c.1463G>A	p.R488H					
+Exon 9	Missense	c.1463G>A	p.R488H					
+Exon 9	Missense	c.1520T>C	p.L507S			VUS	Li (2010)	
+Exon 9	Missense	c.1520T>C	p.L507S			VUS	Li (2010)	
+Exon 9	Deletion	c.1556dupACAC	p.I521HX3	<5		Pathogenic	Schimmenti (2007)	
+Intron 9	Splice Site	c.1586+1G>T				Pathogenic	Calderon et.al unpublished	
+Exon 10	Frameshift	c.1596_1597delCA	p.H532QfsX21			Pathogenic	Calderon et.al unpublished	
+Exon 10	Missense	c.1645C>T	p.P549S			Benign	Dobrowolski (2005)	
+Exon 10	Missense	c.1645C>T	p.P549S			Benign	Calderon et.al unpublished	
+Exon 10	Missense	c.1645C>T	p.P549S			VUS	Li (2010)	
+Intron 9		c.1587-38A>C				Benign	Calderon et.al unpublished	
+3'UTR		c.1674+47C>T				VUS	Calderon et.al unpublished	
